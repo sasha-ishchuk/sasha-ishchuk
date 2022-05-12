@@ -3,7 +3,7 @@
 
 👀 I’m interested in programming
 
-🌱 I’m currently learning Java and Maven (in plans: Sring, mySQL)
+🌱 I’m currently learning Java and MySQL (in plans: Spring, Maven)
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sasha-ishchuk/)
 
