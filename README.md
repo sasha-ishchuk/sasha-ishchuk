@@ -9,7 +9,7 @@
 #### 👀 My first biggest **Java** & **Spring** project
 | Project | Description | Link to repo |
 | :-------| :---------- | :----------- |
-| FitApp :cherries: | Application to track your daily tasks (workouts also) which<br /> allows you to keep your routine/health/fitness/nutrition/diet <br />information in one place. | https://github.com/sasha-ishchuk/fit-app |
+| FitApp :cherries: | Application to track your daily tasks (workouts also) which<br /> allows you to keep your routine/health/fitness/nutrition/diet <br />information in one place. **APP IN PROGRESS** | https://github.com/sasha-ishchuk/fit-app |
 
 ---
 #### 📫 How to reach me: 
