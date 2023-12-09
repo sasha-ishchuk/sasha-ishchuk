@@ -3,13 +3,8 @@
 #### As for me, recipe for success is: **passion + cold mind + persistence** :) 
 
 ---
-#### :computer: I’m currently learning Java and Spring framework.
+#### :computer: Java
 #### :boom: I love techno music!
----
-#### 👀 My first biggest **Java** & **Spring** project
-| Project | Description | Link to repo |
-| :-------| :---------- | :----------- |
-| FitApp :cherries: | Application to track your daily tasks (workouts also) which<br /> allows you to keep your routine/health/fitness/nutrition/diet <br />information in one place. **APP IN PROGRESS** | https://github.com/sasha-ishchuk/fit-app |
 
 ---
 #### 📫 How to reach me: 
