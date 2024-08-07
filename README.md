@@ -9,6 +9,8 @@
 #### :heart_eyes: UI/UX as hobby
 #### :airplane: love learning languages (now -> Spanish)
 
+#### :star: TOP-5 [HackYeah](https://hackyeah.pl/) winner
+
 ---
 #### 📫 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/sasha-ishchuk/)
