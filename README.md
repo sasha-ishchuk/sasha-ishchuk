@@ -1,10 +1,13 @@
-# **Hi, I'm Sasha!**
-#### I’m a 4rth year student of the Applied Computer Science faculty at Jagiellonian University. If I could only describe myself in one word it would have to be a “passion”. I immerse myself in what I love but I also have a balanced approach to what I’m doing. I’m trying to deepen my knowledge and improve my skills all the time. 
-#### As for me, recipe for success is: **passion + cold mind + persistence** :) 
+# **Hi, I'm Sasha :boom:**
+#### I’m a 4rth year student of the Applied Computer Science at Jagiellonian University & results-oriented Software Engineer.
+#### I’m experienced in all stages of the software development life cycle, from requirements gathering and coding to testing and deployment. Known for my attention to detail, I excel at task prioritization and problem-solving. 
+#### Driven by a passion for learning new technologies and working collaboratively 🤝
 
 ---
-#### :computer: Java
-#### :boom: I love techno music!
+#### :computer: Java/Python/SQL and more
+#### :headphones: techno and german/spanish rap
+#### :heart_eyes: UI/UX as hobby
+#### :airplane: love learning languages (now -> Spanish)
 
 ---
 #### 📫 How to reach me: 
