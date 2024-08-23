@@ -1,5 +1,5 @@
 # **Hi, I'm Sasha :boom:**
-#### I’m a 4rth year student of the Applied Computer Science at Jagiellonian University & results-oriented Software Engineer.
+#### I’m a 5th year student of the Applied Computer Science at Jagiellonian University & results-oriented Software Engineer.
 #### I’m experienced in all stages of the software development life cycle, from requirements gathering and coding to testing and deployment. Known for my attention to detail, I excel at task prioritization and problem-solving. 
 #### Driven by a passion for learning new technologies and working collaboratively 🤝
 
