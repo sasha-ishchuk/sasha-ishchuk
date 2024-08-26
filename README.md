@@ -4,12 +4,12 @@
 #### Driven by a passion for learning new technologies and working collaboratively 🤝
 
 ---
-#### :computer: Java/Python/SQL and more
-#### :headphones: techno and german/spanish rap
-#### :heart_eyes: UI/UX as hobby
-#### :airplane: love learning languages (now -> Spanish)
+- #### :computer: Java/Python/SQL and more
+- #### :headphones: techno and german/spanish rap
+- #### :heart_eyes: UI/UX as hobby
+- #### :airplane: love learning languages (now -> Spanish)
 
-#### :star: TOP-5 [HackYeah](https://hackyeah.pl/) winner
+- #### :star: TOP-5 [HackYeah](https://hackyeah.pl/) winner
 
 ---
 #### 📫 How to reach me: 
