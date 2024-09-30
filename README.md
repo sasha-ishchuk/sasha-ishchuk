@@ -11,7 +11,7 @@
 - :headphones: techno and german/spanish rap
 - :heart_eyes: UI/UX as hobby
 - :airplane: love learning languages (now -> Spanish)
-- :star: TOP-5 [HackYeah](https://hackyeah.pl/) winner
+- :star: TOP-5 [HackYeah2022](https://hackyeah.pl/) and HackYeah2024 winner 
 
 
 ## 📫 How to reach me: 
