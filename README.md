@@ -8,10 +8,9 @@
 
 ## :raising_hand: About me
 - :computer: Java/Python/SQL and more
-- :headphones: techno and german/spanish rap
-- :heart_eyes: UI/UX as hobby
+- :headphones: techno/hip-hop/rap (and more)
+- :heart_eyes: gym as hobby
 - :airplane: love learning languages (now -> Spanish)
-- :star: TOP-5 [HackYeah2022](https://hackyeah.pl/) and HackYeah2024 winner 
 
 
 ## 📫 How to reach me: 
